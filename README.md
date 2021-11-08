@@ -39,6 +39,7 @@
 
 <!-- YOUTUBE:START -->
 - [Create a simple card component using Tailwind CSS](https://www.youtube.com/watch?v=CnCgYH3KEaY)
+- [Create a login page using Tailwind CSS](https://www.youtube.com/watch?v=YYhQV2lUhbQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCOxGj3-EjIvFto6qgx4HlkQ)
