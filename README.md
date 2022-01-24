@@ -62,9 +62,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/getsentry/sentry-cordova/issues/149) in [getsentry/sentry-cordova](https://github.com/getsentry/sentry-cordova)
-2. 🗣 Commented on [#3](https://github.com/apexcharts/vue3-apexcharts/issues/3) in [apexcharts/vue3-apexcharts](https://github.com/apexcharts/vue3-apexcharts)
-3. 🗣 Commented on [#6](https://github.com/XenoX/Gaucode-blog/issues/6) in [XenoX/Gaucode-blog](https://github.com/XenoX/Gaucode-blog)
+1. 💪 Opened PR [#66](https://github.com/Ceezik/ponce-tournois-mario-kart/pull/66) in [Ceezik/ponce-tournois-mario-kart](https://github.com/Ceezik/ponce-tournois-mario-kart)
+2. 🗣 Commented on [#149](https://github.com/getsentry/sentry-cordova/issues/149) in [getsentry/sentry-cordova](https://github.com/getsentry/sentry-cordova)
+3. 🗣 Commented on [#3](https://github.com/apexcharts/vue3-apexcharts/issues/3) in [apexcharts/vue3-apexcharts](https://github.com/apexcharts/vue3-apexcharts)
 4. 💪 Opened PR [#20](https://github.com/XenoX/Gaucode-blog/pull/20) in [XenoX/Gaucode-blog](https://github.com/XenoX/Gaucode-blog)
 5. 💪 Opened PR [#5](https://github.com/XenoX/Gaucode-blog/pull/5) in [XenoX/Gaucode-blog](https://github.com/XenoX/Gaucode-blog)
 <!--END_SECTION:activity-->
