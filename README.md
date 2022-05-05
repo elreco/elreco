@@ -2,7 +2,6 @@
 
 [![
 ](https://img.shields.io/website?label=elreco.fr&style=for-the-badge&url=https%3A%2F%2Felreco.fr)](https://elreco.fr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/el__reco?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm just a regular guy
 
