@@ -48,9 +48,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Use Linux on Windows with VSCode](https://www.gaucode.fr/article/transverse/utilisez-linux-sur-windows-grace-a-vscode)
-- [How to structure a large-scale project?](https://www.gaucode.fr/article/transverse/comment-structurer-un-projet-vue-de-grande-envergure)
-- [Stop using Postman](https://www.gaucode.fr/article/transverse/arretez-d-utiliser-postman)
+- [Add a Tailwind Datepicker to your Vue 3 application](https://dev.to/elreco/add-a-tailwind-datepicker-to-your-vue-3-application-57j2)
+- [Stop using Postman](https://dev.to/elreco/arretez-dutiliser-postman-5817)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.gaucode.fr/auteur/Alexandre%20Le%20Corre)
