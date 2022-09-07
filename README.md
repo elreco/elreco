@@ -52,7 +52,7 @@
 - [Stop using Postman](https://dev.to/elreco/arretez-dutiliser-postman-5817)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://www.gaucode.fr/auteur/Alexandre%20Le%20Corre)
+➡️ [more blog posts...](https://dev.to/elreco)
 
 ---
 
