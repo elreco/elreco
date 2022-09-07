@@ -50,6 +50,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Add a Tailwind Datepicker to your Vue 3 application](https://dev.to/elreco/add-a-tailwind-datepicker-to-your-vue-3-application-57j2)
 - [Stop using Postman](https://dev.to/elreco/arretez-dutiliser-postman-5817)
+- [Use Linux on Windows](https://dev.to/elreco/utilisez-linux-sur-windows-grace-a-vscode-1k4n)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/elreco)
