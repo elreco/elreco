@@ -6,7 +6,7 @@
 ## I'm just a regular guy
 
 - 🌱 I’m currently trying to become a Vue.js expert
-- 👯 I’m currently working as a front-end developer
+- 👯 I’m currently working as a lead front end developer at @HeyPongo
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play racquet sports
 
