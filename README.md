@@ -1,8 +1,5 @@
 ### Hi there, I'm Alexandre - aka [elreco][website] 👋
 
-[![
-](https://img.shields.io/website?label=elreco.fr&style=for-the-badge&url=https%3A%2F%2Felreco.fr)](https://elreco.fr)
-
 ## I'm just a regular guy
 
 - 🌱 I’m currently trying to become a Vue.js expert
