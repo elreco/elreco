@@ -23,7 +23,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/42843594/136847638-e823ddac-ff7d-4429-8499-8bbee63dcf2b.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/42843594/136847644-9760513e-a05c-40fa-831d-c981fbe221c7.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/42843594/136847817-e638079b-d0f9-4b79-8895-45137c6f5c12.png" />
+<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/42843594/198587183-425354f0-e198-4f58-8aef-e044316b45b3.png" />
+
 
 
 <br />
