@@ -2,8 +2,8 @@
 
 ## I'm just a regular guy
 
-- 🌱 I’m currently trying to become a Vue.js expert
-- 👯 I’m currently working as a lead front end developer at @HeyPongo
+- 🌱 I’m a Vue.js expert
+- 👯 I’m currently working as a lead front end developer at Lemonway
 - ⚡ Fun fact: I love to play racquet sports
 
 ### Connect with me:
